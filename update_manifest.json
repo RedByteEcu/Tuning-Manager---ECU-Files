@@ -1,5 +1,18 @@
 {
-  "version": "4.6",
+  "version": "1.01",
   "url": "https://github.com/RedByteEcu/Tuning-Manager---ECU-Files/releases/download/v4.6/Rev_Ecu_Tuning_v4_6.zip",
-  "notes": "Update nou Rev Ecu Tuning."
+  "notes": "Tuning Manager v1.0"
+===================
+
+Adaugat / schimbat:
+- Reset versiune: de acum numerotarea incepe de la v1.0.
+- Programul este default Tuning Manager.
+- Build-ul default creeaza doar dist\Tuning Manager.exe.
+- Emblemele default sunt Tuning Manager.
+- Am scos din pachet build-urile separate RedByte / Rev, ca sa nu existe confuzie la compilare.
+
+Fixuri:
+- Touch scroll imbunatatit pentru tableta: poti trage pagina sus/jos din mijlocul paginii, nu doar de pe bara laterala.
+- Scroll cu rotita mouse-ului ramane global pe paginile cu scroll.
+- Drag-to-scroll nu se activeaza peste campuri, butoane, combo-uri, tabele si liste."
 }
