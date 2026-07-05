@@ -1,5 +1,5 @@
 {
-  "version": "1.3",
-  "url": "https://github.com/RedByteEcu/Tuning-Manager---ECU-Files/releases/download/v1.3/tuning_manager_v1_3.zip",
-  "notes": "Tuning Manager v1.3 - updater reparat."
+  "version": "1.4",
+  "url": "https://github.com/RedByteEcu/Tuning-Manager---ECU-Files/releases/download/untagged-0244f288d7fb5ad916da/tuning_manager_v1_4.zip",
+  "notes": "Tuning Manager v1.4\n-------------------\nRelease oficial cerut de utilizator.\n\n- Pastreaza toate modificarile din v1.3 working plus.\n- Setari pentru folderul de salvare si baza SQLite.\n- Gestionare scule personalizate si licente cu avertizare.\n- WhatsApp pe fisa clientului.\n- Lista clienti cu lucrari, total bani si datorii.\n- Update ZIP cu branding multiplu: Tuning Manager / RedByte / Rev Ecu.\n- Build pe Python 3.14."
 }
