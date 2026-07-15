@@ -1,5 +1,5 @@
 {
   "version": "1.5",
-  "url": "https://github.com/RedByteEcu/Tuning-Manager---ECU-Files/releases/download/v1.5/Tuning.Manager.zip",
+  "url": "https://github.com/RedByteEcu/Tuning-Manager---ECU-Files/releases/download/v1.5/tuning_manager_v1_5.zip",
   "notes": "Tuning Manager v1.5\n\nCe s-a adaugat:\n- Functie noua: Importa foldere / fisiere.\n- Programul cauta automat in subfoldere si transforma folderele gasite in lucrari.\n- Detectare automata marca, ECU, Stage, DPF OFF, EGR OFF, IMMO OFF, ADBLUE OFF, OBD2, BENCH, BOOT-JTAG, FLASH si EEPROM.\n- Lista ECU extinsa Bosch, Siemens / Continental, Delphi, Magneti Marelli, Denso, Hitachi, Kefico, Valeo, AC Delco, TRW, Sagem, Temic si Toyota/Lexus.\n\nFixuri:\n- Search client in timp real.\n- Nu mai salveaza aiurea client nou cand doar cauti si nu gaseste rezultat.\n- Raportul Datorii / Bani de primit a fost refacut.\n- Poti deschide direct lucrarea neachitata din raportul de datorii.\n\nObservatii:\n- Lucrarile importate intra cu cost 0 lei si status Importat.\n- Baza de date si fisierele existente nu se sterg la update."
 }
