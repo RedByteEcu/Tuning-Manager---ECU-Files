@@ -1,5 +1,5 @@
 {
-  "version": "1.6",
-  "url": "https://github.com/RedByteEcu/Tuning-Manager---ECU-Files/releases/download/V1.6/tuning_manager_v1_6.zip",
-  "notes": "Tuning Manager v1.6\n\nCe s-a adaugat:\n- Buton Declaratie PDF pe fiecare lucrare.\n- Buton Print declaratie pe fiecare lucrare.\n- Generare automata declaratie pe propria raspundere in format PDF.\n- Declaratia se completeaza automat cu datele lucrarii: client, marca/model, numar de inmatriculare, VIN, cost lucrare, data, ECU, scula folosita si bifele de modificare.\n- In setari se poate seta numele pentru declaratie si logo separat pentru declaratie.\n\nFixuri si imbunatatiri:\n- PDF-ul se salveaza in folderul lucrarii, in subfolderul Declaratii.\n- Printul incearca sa trimita direct PDF-ul la imprimanta implicita; daca nu merge, deschide PDF-ul pentru print manual.\n\nObservatii:\n- Baza de date si fisierele existente nu se sterg la update."
+  "version": "1.7",
+  "url": "https://github.com/RedByteEcu/Tuning-Manager---ECU-Files/releases/download/v1.7/tuning_manager_v1_7.zip",
+  "notes": "Tuning Manager v1.7\n\nCe s-a modificat:\n- Versiune oficiala 1.7.\n- Declaratia PDF afiseaza Stage 1 / Stage 2 fara text REV.\n- Declaratia afiseaza corect CP: cai fabrica -> cai dupa optimizare.\n- Fix layout declaratie: coloana CP nu mai este unita cu Stage 2.\n- Adaugat logo automobile / marci auto in program.\n\nPastrate:\n- Declaratie PDF si Print declaratie.\n- Import foldere / fisiere.\n- Raport datorii cu deschidere directa lucrare.\n- Lista extinsa ECU.\n\nBaza de date si fisierele existente nu se sterg la update."
 }
